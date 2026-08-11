@@ -588,7 +588,7 @@ Affiliated with **Plymouth University, UK**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Akshan-Ajay/Akshan-Ajay/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/Akshan-Ajay/Akshan-Ajay/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 </div>
 
