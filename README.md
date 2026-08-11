@@ -546,11 +546,8 @@ Affiliated with **Plymouth University, UK**
 # 📈 GitHub Statistics
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Akshan-Ajay&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Akshan's GitHub Stats">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshan-Ajay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshan-Ajay&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="Akshan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshan-Ajay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
