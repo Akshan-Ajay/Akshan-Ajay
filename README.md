@@ -7,20 +7,20 @@
 <br>
 
 <a href="https://github.com/Akshan-Ajay">
-  <img src="https://img.shields.io/badge/GitHub-Akshan--Ajay-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Akshan--Ajay-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/akshan-suthakaran-34311b355/">
-  <img src="https://img.shields.io/badge/LinkedIn-Akshan%20Suthakaran-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Akshan%20Suthakaran-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Akshan-Ajay&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" alt="Profile Views">
 
 <br><br>
 
-**Data Science Undergraduate | Aspiring Data Scientist**
+<b>Data Science Undergraduate • Aspiring Data Scientist • AI & Machine Learning Enthusiast</b>
 
-📍 Sri Lanka   |   📊 Data Science   |   🤖 AI & Machine Learning
+📍 Sri Lanka   •   📊 Data Science   •   🤖 AI & Machine Learning
 
 </div>
 
@@ -41,8 +41,9 @@ class AkshanSuthakaran:
             "Data Science",
             "Machine Learning",
             "Artificial Intelligence",
-            "Statistical Analysis",
             "Predictive Analytics",
+            "Statistical Analysis",
+            "Time Series",
             "Full-Stack Development"
         ]
 
@@ -64,15 +65,15 @@ class AkshanSuthakaran:
 
 🎓 Data Science undergraduate at **NSBM Green University**, affiliated with **Plymouth University, UK**.
 
-🧠 Passionate about **Machine Learning, Artificial Intelligence, Statistical Analysis and Predictive Analytics**.
+🧠 Interested in **Machine Learning, Artificial Intelligence, Statistical Analysis and Predictive Analytics**.
 
-🐍 Strong interest in using **Python and data-driven techniques to solve real-world problems**.
+🐍 Passionate about using **Python and data-driven techniques to solve real-world problems**.
 
-📊 Experienced in **data cleaning, EDA, statistical analysis, time-series forecasting and visualization**.
+📊 Experienced with **data cleaning, EDA, statistical analysis, time-series forecasting and visualization**.
 
-💻 Also experienced in **database systems, web development and AR-based applications**.
+💻 Also experienced in **web development, databases and AR-based applications**.
 
-🚀 Currently developing my skills toward becoming a **professional Data Scientist / Machine Learning Engineer**.
+🚀 Currently building my skills toward becoming a **professional Data Scientist / Machine Learning Engineer**.
 
 ---
 
@@ -80,14 +81,15 @@ class AkshanSuthakaran:
 
 <div align="center">
 
-| 🧠 AI & Machine Learning |      📊 Data Science      | 💻 Development |
-| :----------------------: | :-----------------------: | :------------: |
-|     Machine Learning     |       Data Cleaning       |     Python     |
-|    Predictive Modeling   | Exploratory Data Analysis |      React     |
-|        Regression        |    Statistical Analysis   |   JavaScript   |
-|      Classification      |        Time Series        |       PHP      |
-|        Clustering        |     Data Visualization    |       C#       |
-|     Model Evaluation     |          Power BI         |       SQL      |
+| 🧠 AI & Machine Learning |    📊 Data Science   | 💻 Development |
+| :----------------------: | :------------------: | :------------: |
+|     Machine Learning     |     Data Cleaning    |     Python     |
+|    Predictive Modeling   |          EDA         |      React     |
+|        Regression        | Statistical Analysis |   JavaScript   |
+|      Classification      |      Time Series     |     Node.js    |
+|        Clustering        |  Data Visualization  |       PHP      |
+|     Model Evaluation     |       Power BI       |       C#       |
+|      AI Engineering      | Predictive Analytics |       SQL      |
 
 </div>
 
@@ -101,11 +103,9 @@ class AkshanSuthakaran:
 
 <img src="https://skillicons.dev/icons?i=python,js,cs,php" alt="Programming Languages">
 
-</div>
+<br><br>
 
-<div align="center">
-
-`Python`   `SQL`   `C#`   `PHP`   `JavaScript`
+`Python` `SQL` `C#` `PHP` `JavaScript`
 
 </div>
 
@@ -113,25 +113,19 @@ class AkshanSuthakaran:
 
 ## 📊 Data Science & Machine Learning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" alt="Python">
-
-</div>
-
-**Core Skills**
+### Core Skills
 
 `Data Cleaning` · `EDA` · `Feature Engineering`
 
 `Statistical Analysis` · `Hypothesis Testing`
 
-`ANOVA` · `t-test` · `Correlation Analysis`
+`ANOVA` · `t-Test` · `Correlation Analysis`
 
 `Regression` · `Classification` · `Clustering`
 
 `Model Evaluation` · `Predictive Analytics`
 
-**Libraries**
+### Libraries
 
 `Pandas` · `NumPy` · `Scikit-learn`
 
@@ -143,20 +137,21 @@ class AkshanSuthakaran:
 
 ```text
 Statistical Analysis
-       │
-       ├── Hypothesis Testing
-       ├── ANOVA
-       ├── t-Test
-       ├── Correlation
-       └── Regression
-
-Time Series
-       │
-       ├── Stationarity Testing
-       ├── ADF Test
-       ├── ACF / PACF
-       ├── ARIMA
-       └── SARIMA / SARIMAX
+        │
+        ├── Hypothesis Testing
+        ├── ANOVA
+        ├── t-Test
+        ├── Correlation Analysis
+        └── Regression
+                    │
+                    ▼
+              Time Series
+                    │
+        ├── Stationarity Testing
+        ├── ADF Test
+        ├── ACF / PACF
+        ├── ARIMA
+        └── SARIMA / SARIMAX
 ```
 
 ---
@@ -167,9 +162,7 @@ Time Series
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,vite,nextjs,php" alt="Web Development">
 
-</div>
-
-<div align="center">
+<br><br>
 
 `HTML` · `CSS` · `JavaScript` · `React`
 
@@ -185,9 +178,7 @@ Time Series
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases">
 
-</div>
-
-<div align="center">
+<br><br>
 
 `PostgreSQL` · `MySQL` · `SQL Server` · `Supabase`
 
@@ -209,15 +200,13 @@ Time Series
 
 ---
 
-## 🔧 Tools
+## 🔧 Tools & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,blender,unity" alt="Tools">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,blender,unity,jupyter" alt="Tools">
 
-</div>
-
-<div align="center">
+<br><br>
 
 `Git` · `GitHub` · `VS Code` · `Jupyter Notebook`
 
@@ -234,7 +223,7 @@ Time Series
 **Data Analysis & Machine Learning**
 
 <a href="https://github.com/Akshan-Ajay/food-delivery-time-prediction">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Project">
 </a>
 
 ### 🧰 Technologies
@@ -247,12 +236,12 @@ Time Series
 
 * Cleaned and preprocessed a **45K+ record dataset**.
 * Handled missing values and performed feature engineering.
-* Applied outlier detection and removal.
-* Implemented One-Hot Encoding.
-* Performed **ANOVA, t-test and correlation analysis**.
+* Performed outlier detection and removal.
+* Applied One-Hot Encoding.
+* Conducted **ANOVA, t-test and correlation analysis**.
 * Created visualizations to identify delivery-time patterns.
 * Investigated the impact of **traffic and festival conditions**.
-* Developed a data-driven understanding of factors affecting delivery time.
+* Built a data-driven understanding of factors affecting delivery time.
 
 ---
 
@@ -261,7 +250,7 @@ Time Series
 **SARIMA Time-Series Forecasting**
 
 <a href="https://github.com/Akshan-Ajay/sarima-air-traffic-forecasting">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Project">
 </a>
 
 ### 🧰 Technologies
@@ -293,7 +282,7 @@ Time Series
 **AR Web Application**
 
 <a href="https://github.com/Akshan-Ajay/Food_AR_App">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Project">
 </a>
 
 ### 🧰 Technologies
@@ -312,7 +301,7 @@ Time Series
 * Integrated **GLB and USDZ** models for mobile AR.
 * Developed dynamic food customization.
 * Implemented real-time model and pricing updates.
-* Developed admin functionality for:
+* Developed administration functionality for:
 
   * Menu management
   * AR model management
@@ -326,7 +315,7 @@ Time Series
 
 **Collaborative Full-Stack Task Management Platform**
 
-> Building a modern collaborative task-management application using a full-stack architecture.
+> A modern collaborative task-management application built using a full-stack architecture.
 
 ### 🧰 Technology Stack
 
@@ -344,7 +333,7 @@ Time Series
 
 `Jest` · `Supertest`
 
-### 🚀 Planned / Implemented Concepts
+### 🚀 Key Concepts
 
 * 📋 Kanban-style task management
 * 👥 Collaborative workflows
@@ -362,7 +351,7 @@ Time Series
 
 ## AI-Based Flood Risk Prediction
 
-> **Short-Term Flood Risk Prediction for Sri Lankan River Basins**
+**Short-Term Flood Risk Prediction for Sri Lankan River Basins**
 
 I'm interested in developing AI-based systems that combine **hydrometeorological data, machine learning and real-time information** to support early flood-risk awareness.
 
@@ -378,16 +367,16 @@ Hydrometeorological Data
    Feature Engineering
           │
           ▼
-Machine Learning Model
+ Machine Learning Model
           │
           ▼
-   Risk Prediction
+     Risk Prediction
           │
           ▼
  Visualization / Dashboard
           │
           ▼
-Real-World Decision Support
+ Real-World Decision Support
 ```
 
 ### 🧠 Technologies
@@ -400,7 +389,7 @@ Real-World Decision Support
 
 ---
 
-# 📚 Algorithms & Data Structures
+# 🧮 Algorithms & Data Structures
 
 I've worked with fundamental algorithms including:
 
@@ -414,7 +403,7 @@ I've worked with fundamental algorithms including:
 
 # 🎓 Education
 
-### BSc (Hons) in Data Science
+## BSc (Hons) in Data Science
 
 **NSBM Green University, Homagama**
 
@@ -460,7 +449,7 @@ Affiliated with **Plymouth University, UK**
 
 * 🐍 **Udemy Certified Python Developer**
 * 💻 **Computer Applications Assistant** — Zonal Computer Resource Center
-* 🤖 **Machine Learning** — Sololearn
+* 🤖 **Machine Learning** — SoloLearn
 
 ---
 
@@ -468,7 +457,7 @@ Affiliated with **Plymouth University, UK**
 
 <div align="center">
 
-|      Area      | Focus                                   |
+|      Area      | Current Focus                           |
 | :------------: | :-------------------------------------- |
 |    🐍 Python   | Advanced Python & Data Science          |
 |      🤖 AI     | Machine Learning & AI Engineering       |
@@ -492,10 +481,10 @@ Affiliated with **Plymouth University, UK**
      🧹 CLEANING
           │
           ▼
-      🔎 EDA
+        🔎 EDA
           │
           ▼
-   📐 STATISTICS
+     📐 STATISTICS
           │
           ▼
   ⚙️ FEATURE ENGINEERING
@@ -520,15 +509,17 @@ Affiliated with **Plymouth University, UK**
 
 ---
 
-# 🎯 My Development Philosophy
+# 🎯 Development Philosophy
 
 <div align="center">
 
 ### **Think → Analyze → Build → Test → Deploy → Improve**
 
-</div>
+<br>
 
 > **"Don't just build software. Build solutions that make sense from data."**
+
+</div>
 
 ---
 
@@ -620,6 +611,6 @@ Affiliated with **Plymouth University, UK**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" alt="Footer">
 
-### **Building with Data • Powered by AI • Driven by Curiosity 🚀**
+Building with Data • Powered by AI • Driven by Curiosity 🚀
 
 </div>
